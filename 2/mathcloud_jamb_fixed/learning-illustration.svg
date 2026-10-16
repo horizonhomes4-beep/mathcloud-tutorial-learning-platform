@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" role="img" aria-labelledby="title desc">
+<title id="title">MathCloud JAMB learning illustration</title><desc id="desc">A student studying on a laptop with books, a checklist, and academic symbols.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eaf3ff"/><stop offset="1" stop-color="#f4edff"/></linearGradient>
+ <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1769e0"/><stop offset="1" stop-color="#7047c8"/></linearGradient>
+ <linearGradient id="book" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5c84c"/><stop offset="1" stop-color="#e3a51b"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="13" stdDeviation="12" flood-color="#193e7a" flood-opacity=".15"/></filter>
+</defs>
+<ellipse cx="360" cy="350" rx="285" ry="40" fill="#b8c9e8" opacity=".28"/>
+<circle cx="550" cy="105" r="72" fill="#dcd1ff" opacity=".65"/><circle cx="150" cy="120" r="47" fill="#d5e8ff"/>
+<g filter="url(#shadow)">
+ <rect x="410" y="75" width="185" height="218" rx="19" fill="#fff" transform="rotate(7 502 184)"/>
+ <rect x="431" y="99" width="143" height="26" rx="8" fill="#eaf2ff" transform="rotate(7 502 112)"/>
+ <g transform="rotate(7 502 184)" fill="none" stroke="#b7c9e7" stroke-width="5" stroke-linecap="round"><path d="M441 151h111M441 176h91M441 201h103M441 226h77"/></g>
+ <g transform="rotate(7 502 184)"><circle cx="454" cy="258" r="12" fill="#dff7e9"/><path d="m448 258 5 5 9-11" fill="none" stroke="#159957" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+ <rect x="91" y="239" width="135" height="76" rx="9" fill="#7047c8" transform="rotate(-8 158 277)"/><rect x="101" y="228" width="135" height="76" rx="9" fill="#1769e0" transform="rotate(-8 168 266)"/><rect x="111" y="217" width="135" height="76" rx="9" fill="url(#book)" transform="rotate(-8 178 255)"/>
+ <path d="M132 238l80-11M136 253l69-10M140 268l49-7" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".85" transform="rotate(-8 178 255)"/>
+ <rect x="237" y="118" width="255" height="170" rx="15" fill="#1b2941"/>
+ <rect x="248" y="129" width="233" height="148" rx="8" fill="url(#screen)"/>
+ <circle cx="365" cy="145" r="4" fill="#b9d8ff"/>
+ <rect x="272" y="160" width="91" height="7" rx="4" fill="#dceaff" opacity=".9"/><rect x="272" y="176" width="137" height="6" rx="3" fill="#dceaff" opacity=".62"/>
+ <rect x="272" y="195" width="184" height="62" rx="9" fill="#fff" opacity=".96"/>
+ <path d="M289 238l22-19 19 10 29-23 19 12 23-14" fill="none" stroke="#22a06b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M224 289h281l-23 25H248z" fill="#b8c8df"/><path d="M248 289h233l-17 17H264z" fill="#e8eff8"/>
+ <rect x="327" y="294" width="73" height="5" rx="2.5" fill="#a5b5cb"/>
+</g>
+<g font-family="Arial,sans-serif" font-weight="700" text-anchor="middle">
+ <circle cx="602" cy="320" r="33" fill="#fff" filter="url(#shadow)"/><text x="602" y="328" font-size="27" fill="#1769e0">A+</text>
+ <circle cx="132" cy="163" r="27" fill="#fff" filter="url(#shadow)"/><text x="132" y="171" font-size="25" fill="#7047c8">π</text>
+ <circle cx="552" cy="42" r="24" fill="#fff" filter="url(#shadow)"/><text x="552" y="50" font-size="24" fill="#d39b16">✓</text>
+</g>
+</svg>
